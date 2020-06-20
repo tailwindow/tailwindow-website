@@ -1,4 +1,6 @@
-# website
+# Tailwindow Website
+
+Tailwindow is a collection of UI Components created using Tailwind CSS Framework. The UI Components gives you all of the building blocks you need to build any designs without any annoying opinionated styles you have to fight to override.
 
 ## Build Setup
 
