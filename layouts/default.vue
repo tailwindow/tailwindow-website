@@ -6,9 +6,9 @@
           <logo class="flex-1 p-2 h-12 w-56" />
         </div>
         <nav class="flex flex-grow justify-end h-16">
-          <a href="" class="m-6">Tailwind CSS</a>
-          <a href="" class="m-6">Component UI</a>
-          <a href="" class="flex m-6">
+          <a href="https://www.tailwindcss.com" target="_blank" class="my-6 mx-1 hidden sm:block sm:mx-6">Tailwind CSS</a>
+          <a href="https://component.tailwindow.com" class="my-6 mx-1 hidden sm:block sm:mx-6">Component UI</a>
+          <a href="https://github.com/tailwindow/component" target="_blank" class="flex m-6">
             <svg
               aria-hidden="true"
               focusable="false"
